@@ -187,6 +187,4 @@ touch scripts.js
 cd ..
 code .
 
-export PATH=~/bin:$PATH
-
 
